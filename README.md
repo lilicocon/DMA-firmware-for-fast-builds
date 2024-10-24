@@ -1,6 +1,9 @@
 # DMA OL
 
 **DMA OL** is a fast, integrated tool for creating DMA firmware. Leveraging Vivado Cloud technology, it sets up an IDE environment on the server, enabling users to simulate and build firmware directly from their web browser without local configuration.
+## ⚠️ Important Notice
+
+Many people are cloning our repository and impersonating us to deceive others. We operate only one official community group. Please make sure to join the correct group and avoid falling for scams.
 
 ## Features
 
