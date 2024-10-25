@@ -5,6 +5,9 @@
 
 Many people are cloning our repository and impersonating us to deceive others. We operate only one official community group. Please make sure to join the correct group and avoid falling for scams.
 
+Interestingly, many developers are attempting to suppress and discredit us. I believe you should focus on researching technology instead.
+
+
 ## Features
 
 - **Basic Open-Source Version**: Supports basic games like EAC.
