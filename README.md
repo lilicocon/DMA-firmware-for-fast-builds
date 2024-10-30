@@ -27,7 +27,7 @@ Interestingly, many developers are attempting to suppress and discredit us. I be
 
 1. **Prepare a Server**: Set up an appropriate server environment.
 2. **Run the Installation Program**: Follow the instructions to install DMA OL.
-3. **Join Our Community**: For support and discussions, join our [Discord community](https://discord.gg/F7N2JKCzDm).
+3. **Join Our Community**: For support and discussions, join our [Discord community](https://discord.gg/WT6NFP9WgJ).
 
 ## Installation
 
