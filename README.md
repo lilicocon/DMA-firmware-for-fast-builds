@@ -9,6 +9,7 @@ Please make sure to join the correct group and avoid falling for scams.
 
 Interestingly, many developers are attempting to suppress and discredit us. I believe you should focus on researching technology instead.
 
+We do not sell any devices. If you encounter someone trying to forcefully sell you devices, that person is an impersonator.
 
 ## Features
 
